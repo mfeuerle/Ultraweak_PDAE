@@ -23,7 +23,8 @@ preferred-citation:
   - family-names: "Urban"
     given-names: "Karsten"
   title: "An ultraweak variational method for parmeterized linear differential-algebraic equations"
-#  doi: "10.0000/00000"
-#  journal: "Journal Title"
+  doi: "10.48550/arXiv.2202.12834"
+  journal:  "arXiv:2202.12834 [math.NA]"
+  url: "https://arxiv.org/abs/2202.12834"
   year: 2022
 
