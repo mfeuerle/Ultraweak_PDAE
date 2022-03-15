@@ -27,4 +27,7 @@ preferred-citation:
   journal:  "arXiv:2202.12834 [math.NA]"
   url: "https://arxiv.org/abs/2202.12834"
   year: 2022
+  eprint: "2202.12834",
+  archivePrefix: "arXiv",
+  primaryClass: "math.NA"
 
